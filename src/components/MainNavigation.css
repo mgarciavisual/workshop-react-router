@@ -1,0 +1,20 @@
+.main-navigation {
+
+}
+
+.main-navigation ul {
+	list-style: none;
+}
+
+.main-navigation ul li {
+	display: inline;
+	padding: 20px;
+}
+
+.main-navigation a {
+	text-decoration: none;
+}
+
+.main-navigation a.active {
+	font-weight: bold;
+}
